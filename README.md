@@ -3,7 +3,10 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 
   <h1>Built with AI Studio and David Kalunga
-  🌱 ShambaDiscuss
+  </h2>
+
+
+  <p>🌱 ShambaDiscuss
 
 ShambaDiscuss is an AI-powered web application designed to support African farmers by providing instant agricultural advice.
 
@@ -72,12 +75,9 @@ ShambaDiscuss aims to:
 
 Contributions are welcome! Feel free to fork this repository and improve the project.
 
-📌 Author
+. Author
 
-Built during the East African Buildathon.</h2>
-
-
-  <p>The fastest path from prompt to production with Gemini.</p>
+Built during the East African Buildathon..</p>
 
   <a href="https://aistudio.google.com/apps">Start building</a>
 
